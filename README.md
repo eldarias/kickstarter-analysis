@@ -8,11 +8,11 @@ The analysis of the data was performed using Excel functions and formulas.  Func
 
 ### Analysis of Outcomes Based on Launch Date
 <image src="./resources/Theater_Outcomes_vs_Launch.png">
-  The above chart shows the Theter Plays outcomes based on Launch Date 
+  The above chart shows the Theater Plays outcomes based on Launch Date 
 
 ### Analysis of Outcomes Based on Goals
 <image src="./resources/Outcomes_vs_Goals.png">
-  The above chart shows the Theter Plays outcomes based on Goal amounts.
+  The above chart shows the Theater Plays outcomes based on Goal amounts.
 
 ### Challenges and Difficulties Encountered
 Although I feel that I did not run into Excel challenges, my personal challenge was trying to understand the project and requirements to ensure its success.  To overcome this personal challenge, or when things did not make sense, I had to re-read the challenge and then re-read certain sections within each deliverable, take notes and then reattempt the requested task(s).
